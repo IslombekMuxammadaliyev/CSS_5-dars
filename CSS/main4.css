@@ -1,0 +1,27 @@
+.wrap{
+    width: 800px;
+    height: 600px;
+    margin: 50px auto;
+}
+.box{
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(red,yellow,green);
+}
+.wrap2{
+    width: 1000px;
+    height: 800px;
+    margin: 50px auto;
+
+}
+.box2{
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(green,white,blue);
+}
+.item{
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    padding-top: 300px;
+}
